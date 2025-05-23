@@ -8,19 +8,19 @@ global.socialm = "Telegram: t.me:DeeCee_x" //ur github or insta name
 global.location = "Nigeria, Lagos" //ur location
 
 //new
-global.botname = 'QUEEN_ANITA-V3' //ur bot name
-global.ownernumber = ' ' //ur owner number
+global.botname = 'JOSHTECH' //ur bot name
+global.ownernumber = '2349036373104' //ur owner number
 global.ownername = "DAVID CYRIL"  //ur owner name
 global.websitex = "http://www.youtube.com/@DavidCyril_TECH"
-global.wagc = "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"
+global.wagc = ""
 global.themeemoji = '👸'
-global.wm = "DAVID CYRIL TECH"
-global.botscript = 'https://github.com/DeeCeeXxx/Queen_Anita-V3' //script link
+global.wm = "JOSH TECH"
+global.botscript = 'https://github.com/Jo-byte-hub/Queen_Anita-V3' //script link
 global.packname = "STICKER BY"
-global.author = "QUEEN_ANITA-V3"
-global.creator = "2347043759577@s.whatsapp.net"
+global.author = "JOSHUA"
+global.creator = "2349036373104@s.whatsapp.net"
 global.xprefix = "."
-global.premium = ["2347043759577"] // Premium User
+global.premium = ["2349036373104"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -38,7 +38,7 @@ global.mess = {
 	limit: 'Your limit is up!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
-    error: 'BAKA!!!!',
+    error: 'Joshua is still working on this!!!!',
     success: 'Here you go!'
 }
 //thumbnail
